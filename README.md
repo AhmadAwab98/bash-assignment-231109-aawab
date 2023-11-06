@@ -4,9 +4,9 @@ Bash assignment.
 
 Table of Contents
 * [Scripts](#Scripts)
-  * [collect_logs.sh](#collect_logs.sh)
-  * [rotate_logs.sh](#rotate_logs.sh)
-  * [analyze_logs.sh](#analyze_logs.sh)
+  * [collect_logs.sh](#collect_logssh)
+  * [rotate_logs.sh](#rotate_logssh)
+  * [analyze_logs.sh](#analyze_logssh)
 
 ## Description
 
